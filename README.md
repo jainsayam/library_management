@@ -1,5 +1,5 @@
 # library_management
-# Install the Go_lang setup
+# Install the Go_lang setup and connect mysql database using app.go file
 Step 1: Go to cmd/main folder.
 
 Step 2: Run "go build" command.
